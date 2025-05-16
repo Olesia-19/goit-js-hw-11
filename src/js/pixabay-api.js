@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const refs = {
-    API_KEY: import.meta.env.VITE_API_KEY,
+    API_KEY: '50329765-c5f06c68786df4859fa5b0c64',
     BASE_URL: 'https://pixabay.com/api/',
 } 
 
